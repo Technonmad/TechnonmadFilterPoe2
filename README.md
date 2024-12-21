@@ -6,7 +6,7 @@ Feel free to create issues and fork from this repository
 
 ## Installing
 
-1. Download this repository;
+1. [Download this filter](https://github.com/Technonmad/TechnonmadFilterPoe2/releases/tag/v1.0);
 2. Unzip `sound.zip` into the same folder;
 3. Take sound files and `TechnonmadFilter.filter` and place them into `\Documents\My Games\Path of Exile 2`;
 4. In game you should go `Options -> Game -> Filters` and select `TechnonmadFilter`.
